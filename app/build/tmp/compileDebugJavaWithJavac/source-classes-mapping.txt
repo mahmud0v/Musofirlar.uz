@@ -1,0 +1,20 @@
+uz/musofirlar/musofirlaruz/databinding/HomeScreenBinding.java
+ uz.musofirlar.musofirlaruz.databinding.HomeScreenBinding
+uz/musofirlar/musofirlaruz/databinding/LoginScreenBinding.java
+ uz.musofirlar.musofirlaruz.databinding.LoginScreenBinding
+uz/musofirlar/musofirlaruz/databinding/IntroScreenBinding.java
+ uz.musofirlar.musofirlaruz.databinding.IntroScreenBinding
+uz/musofirlar/musofirlaruz/BuildConfig.java
+ uz.musofirlar.musofirlaruz.BuildConfig
+uz/musofirlar/musofirlaruz/databinding/ItemLayoutBinding.java
+ uz.musofirlar.musofirlaruz.databinding.ItemLayoutBinding
+uz/musofirlar/musofirlaruz/databinding/ActivityMainBinding.java
+ uz.musofirlar.musofirlaruz.databinding.ActivityMainBinding
+uz/musofirlar/musofirlaruz/databinding/RegistrScreenBinding.java
+ uz.musofirlar.musofirlaruz.databinding.RegistrScreenBinding
+uz/musofirlar/musofirlaruz/databinding/SplashScreenBinding.java
+ uz.musofirlar.musofirlaruz.databinding.SplashScreenBinding
+uz/musofirlar/musofirlaruz/databinding/VerifyRegisterDialogBinding.java
+ uz.musofirlar.musofirlaruz.databinding.VerifyRegisterDialogBinding
+uz/musofirlar/musofirlaruz/databinding/ViewPagerHomeBinding.java
+ uz.musofirlar.musofirlaruz.databinding.ViewPagerHomeBinding

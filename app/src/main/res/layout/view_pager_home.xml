@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <androidx.viewpager2.widget.ViewPager2
+        android:id="@+id/view_pager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <ImageView
+        android:id="@+id/img2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:scaleX="@integer/material_motion_duration_long_1"
+        android:src="@drawable/screen1_image2"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+    <TextView
+        android:id="@+id/text1"
+        android:layout_width="86dp"
+        android:layout_height="15dp"
+        android:layout_marginTop="57dp"
+        android:layout_marginRight="20sp"
+        android:fontFamily="@font/poppins_regular"
+        android:text="@string/skip"
+        android:textColor="#6F6F6F"
+        android:textSize="10dp"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+    <com.tbuonomo.viewpagerdotsindicator.DotsIndicator
+        android:id="@+id/dots_indicator"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="36dp"
+        android:layout_marginBottom="99dp"
+        app:dotsColor="@color/def_dots_color"
+        app:dotsCornerRadius="4dp"
+        app:dotsSize="8dp"
+        app:dotsSpacing="2dp"
+        app:dotsWidthFactor="2.5"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:progressMode="true"
+        app:selectedDotColor="@color/sel_dots_color" />
+
+    <LinearLayout
+        android:id="@+id/next_btn"
+        android:layout_width="129dp"
+        android:layout_height="45dp"
+        android:layout_marginRight="36dp"
+        android:background="@drawable/intro_next_btn"
+        android:clickable="true"
+        android:focusable="true"
+        android:gravity="center"
+        app:layout_constraintBottom_toBottomOf="@id/dots_indicator"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="@id/dots_indicator">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/poppins_semi_bold"
+            android:text="@string/keyingisi"
+            android:textColor="#FFFFFF" />
+
+    </LinearLayout>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
