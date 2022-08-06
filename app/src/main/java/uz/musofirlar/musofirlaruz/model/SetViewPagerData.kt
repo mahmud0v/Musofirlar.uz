@@ -9,7 +9,6 @@ class SetViewPagerData  {
         val instance = SetViewPagerData()
     }
 
-
     fun getVPData() : ArrayList<ViewPagerData>{
          listViewPagerData = arrayListOf(
              ViewPagerData(R.drawable.screen1_image1,R.string.musofirlar_uz,R.string.intro1_description),
