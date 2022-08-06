@@ -1,38 +1,38 @@
 [
     {
-        "merged": "D:\\Android Projects\\Musofirlaruz\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
-        "source": "D:\\Android Projects\\Musofirlaruz\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "/Users/user/AndroidStudioProjects/Musofirlar.uz/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_layout.xml",
+        "source": "/Users/user/AndroidStudioProjects/Musofirlar.uz/app/src/main/res/layout/item_layout.xml"
     },
     {
-        "merged": "D:\\Android Projects\\Musofirlaruz\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\splash_screen.xml",
-        "source": "D:\\Android Projects\\Musofirlaruz\\app\\src\\main\\res\\layout\\splash_screen.xml"
+        "merged": "/Users/user/AndroidStudioProjects/Musofirlar.uz/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/splash_screen.xml",
+        "source": "/Users/user/AndroidStudioProjects/Musofirlar.uz/app/src/main/res/layout/splash_screen.xml"
     },
     {
-        "merged": "D:\\Android Projects\\Musofirlaruz\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\home_screen.xml",
-        "source": "D:\\Android Projects\\Musofirlaruz\\app\\src\\main\\res\\layout\\home_screen.xml"
+        "merged": "/Users/user/AndroidStudioProjects/Musofirlar.uz/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/Users/user/AndroidStudioProjects/Musofirlar.uz/app/src/main/res/layout/activity_main.xml"
     },
     {
-        "merged": "D:\\Android Projects\\Musofirlaruz\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\intro_screen.xml",
-        "source": "D:\\Android Projects\\Musofirlaruz\\app\\src\\main\\res\\layout\\intro_screen.xml"
+        "merged": "/Users/user/AndroidStudioProjects/Musofirlar.uz/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/view_pager_home.xml",
+        "source": "/Users/user/AndroidStudioProjects/Musofirlar.uz/app/src/main/res/layout/view_pager_home.xml"
     },
     {
-        "merged": "D:\\Android Projects\\Musofirlaruz\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\verify_register_dialog.xml",
-        "source": "D:\\Android Projects\\Musofirlaruz\\app\\src\\main\\res\\layout\\verify_register_dialog.xml"
+        "merged": "/Users/user/AndroidStudioProjects/Musofirlar.uz/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/home_screen.xml",
+        "source": "/Users/user/AndroidStudioProjects/Musofirlar.uz/app/src/main/res/layout/home_screen.xml"
     },
     {
-        "merged": "D:\\Android Projects\\Musofirlaruz\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_layout.xml",
-        "source": "D:\\Android Projects\\Musofirlaruz\\app\\src\\main\\res\\layout\\item_layout.xml"
+        "merged": "/Users/user/AndroidStudioProjects/Musofirlar.uz/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/login_screen.xml",
+        "source": "/Users/user/AndroidStudioProjects/Musofirlar.uz/app/src/main/res/layout/login_screen.xml"
     },
     {
-        "merged": "D:\\Android Projects\\Musofirlaruz\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\view_pager_home.xml",
-        "source": "D:\\Android Projects\\Musofirlaruz\\app\\src\\main\\res\\layout\\view_pager_home.xml"
+        "merged": "/Users/user/AndroidStudioProjects/Musofirlar.uz/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/verify_register_dialog.xml",
+        "source": "/Users/user/AndroidStudioProjects/Musofirlar.uz/app/src/main/res/layout/verify_register_dialog.xml"
     },
     {
-        "merged": "D:\\Android Projects\\Musofirlaruz\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\registr_screen.xml",
-        "source": "D:\\Android Projects\\Musofirlaruz\\app\\src\\main\\res\\layout\\registr_screen.xml"
+        "merged": "/Users/user/AndroidStudioProjects/Musofirlar.uz/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/intro_screen.xml",
+        "source": "/Users/user/AndroidStudioProjects/Musofirlar.uz/app/src/main/res/layout/intro_screen.xml"
     },
     {
-        "merged": "D:\\Android Projects\\Musofirlaruz\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\login_screen.xml",
-        "source": "D:\\Android Projects\\Musofirlaruz\\app\\src\\main\\res\\layout\\login_screen.xml"
+        "merged": "/Users/user/AndroidStudioProjects/Musofirlar.uz/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/registr_screen.xml",
+        "source": "/Users/user/AndroidStudioProjects/Musofirlar.uz/app/src/main/res/layout/registr_screen.xml"
     }
 ]

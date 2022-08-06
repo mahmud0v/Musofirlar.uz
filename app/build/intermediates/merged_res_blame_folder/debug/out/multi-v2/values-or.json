@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Android Projects\\Musofirlaruz\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-or\\values-or.xml",
+            "outputFile": "/Users/user/AndroidStudioProjects/Musofirlar.uz/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-or/values-or.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Acer\\.gradle\\caches\\transforms-3\\b10e39a8b2da7453b7f150a8808ce1e2\\transformed\\material-1.5.0\\res\\values-or\\values-or.xml",
+                    "source": "/Users/user/.gradle/caches/transforms-3/b10e39a8b2da7453b7f150a8808ce1e2/transformed/material-1.5.0/res/values-or/values-or.xml",
                     "from": {
                         "startLines": "2,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Acer\\.gradle\\caches\\transforms-3\\72d99e5c72578bae1968af7c7d4de70c\\transformed\\navigation-ui-2.4.1\\res\\values-or\\values-or.xml",
+                    "source": "/Users/user/.gradle/caches/transforms-3/72d99e5c72578bae1968af7c7d4de70c/transformed/navigation-ui-2.4.1/res/values-or/values-or.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
@@ -40,7 +40,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Acer\\.gradle\\caches\\transforms-3\\6de2901aab801422da91f7d326583469\\transformed\\appcompat-1.4.1\\res\\values-or\\values-or.xml",
+                    "source": "/Users/user/.gradle/caches/transforms-3/6de2901aab801422da91f7d326583469/transformed/appcompat-1.4.1/res/values-or/values-or.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -57,7 +57,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Acer\\.gradle\\caches\\transforms-3\\4dfd8b15aa3fca473e5152361f0f3dea\\transformed\\core-1.7.0\\res\\values-or\\values-or.xml",
+                    "source": "/Users/user/.gradle/caches/transforms-3/4dfd8b15aa3fca473e5152361f0f3dea/transformed/core-1.7.0/res/values-or/values-or.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

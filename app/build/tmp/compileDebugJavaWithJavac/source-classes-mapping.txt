@@ -1,9 +1,9 @@
 uz/musofirlar/musofirlaruz/databinding/HomeScreenBinding.java
  uz.musofirlar.musofirlaruz.databinding.HomeScreenBinding
-uz/musofirlar/musofirlaruz/databinding/LoginScreenBinding.java
- uz.musofirlar.musofirlaruz.databinding.LoginScreenBinding
 uz/musofirlar/musofirlaruz/databinding/IntroScreenBinding.java
  uz.musofirlar.musofirlaruz.databinding.IntroScreenBinding
+uz/musofirlar/musofirlaruz/databinding/LoginScreenBinding.java
+ uz.musofirlar.musofirlaruz.databinding.LoginScreenBinding
 uz/musofirlar/musofirlaruz/BuildConfig.java
  uz.musofirlar.musofirlaruz.BuildConfig
 uz/musofirlar/musofirlaruz/databinding/ItemLayoutBinding.java
