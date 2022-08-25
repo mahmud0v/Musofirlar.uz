@@ -96,6 +96,21 @@
 
 
 
+    <com.google.android.material.bottomnavigation.BottomNavigationView
+        android:layout_width="337dp"
+        android:layout_height="58dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        android:layout_marginBottom="20dp"
+        app:menu="@menu/bottom_nav_menu"
+        app:labelVisibilityMode="unlabeled"
+        app:itemIconTint="@color/selected_checked"
+        android:background="@drawable/bottom_nav_view_back"
+        />
+
+
+
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>

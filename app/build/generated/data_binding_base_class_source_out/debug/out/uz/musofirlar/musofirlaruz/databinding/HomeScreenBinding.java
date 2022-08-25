@@ -9,6 +9,7 @@ import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.appcompat.widget.SearchView;
 import androidx.constraintlayout.widget.ConstraintLayout;
+import androidx.recyclerview.widget.RecyclerView;
 import androidx.viewbinding.ViewBinding;
 import androidx.viewbinding.ViewBindings;
 import java.lang.NullPointerException;
@@ -24,16 +25,29 @@ public final class HomeScreenBinding implements ViewBinding {
   public final TextView comOffersId;
 
   @NonNull
+  public final TextView nearTxt;
+
+  @NonNull
   public final TextView rentHomeText;
+
+  @NonNull
+  public final RecyclerView rv1Id;
+
+  @NonNull
+  public final RecyclerView rv2Id;
 
   @NonNull
   public final SearchView searchViewId;
 
   private HomeScreenBinding(@NonNull ConstraintLayout rootView, @NonNull TextView comOffersId,
-      @NonNull TextView rentHomeText, @NonNull SearchView searchViewId) {
+      @NonNull TextView nearTxt, @NonNull TextView rentHomeText, @NonNull RecyclerView rv1Id,
+      @NonNull RecyclerView rv2Id, @NonNull SearchView searchViewId) {
     this.rootView = rootView;
     this.comOffersId = comOffersId;
+    this.nearTxt = nearTxt;
     this.rentHomeText = rentHomeText;
+    this.rv1Id = rv1Id;
+    this.rv2Id = rv2Id;
     this.searchViewId = searchViewId;
   }
 
@@ -70,9 +84,27 @@ public final class HomeScreenBinding implements ViewBinding {
         break missingId;
       }
 
+      id = R.id.near_txt;
+      TextView nearTxt = ViewBindings.findChildViewById(rootView, id);
+      if (nearTxt == null) {
+        break missingId;
+      }
+
       id = R.id.rent_home_text;
       TextView rentHomeText = ViewBindings.findChildViewById(rootView, id);
       if (rentHomeText == null) {
+        break missingId;
+      }
+
+      id = R.id.rv1_id;
+      RecyclerView rv1Id = ViewBindings.findChildViewById(rootView, id);
+      if (rv1Id == null) {
+        break missingId;
+      }
+
+      id = R.id.rv2_id;
+      RecyclerView rv2Id = ViewBindings.findChildViewById(rootView, id);
+      if (rv2Id == null) {
         break missingId;
       }
 
@@ -82,8 +114,8 @@ public final class HomeScreenBinding implements ViewBinding {
         break missingId;
       }
 
-      return new HomeScreenBinding((ConstraintLayout) rootView, comOffersId, rentHomeText,
-          searchViewId);
+      return new HomeScreenBinding((ConstraintLayout) rootView, comOffersId, nearTxt, rentHomeText,
+          rv1Id, rv2Id, searchViewId);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

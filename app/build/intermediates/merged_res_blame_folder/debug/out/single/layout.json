@@ -16,6 +16,14 @@
         "source": "/Users/user/AndroidStudioProjects/Musofirlar.uz/app/src/main/res/layout/view_pager_home.xml"
     },
     {
+        "merged": "/Users/user/AndroidStudioProjects/Musofirlar.uz/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/rv1_item_list.xml",
+        "source": "/Users/user/AndroidStudioProjects/Musofirlar.uz/app/src/main/res/layout/rv1_item_list.xml"
+    },
+    {
+        "merged": "/Users/user/AndroidStudioProjects/Musofirlar.uz/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/rv2_item_list.xml",
+        "source": "/Users/user/AndroidStudioProjects/Musofirlar.uz/app/src/main/res/layout/rv2_item_list.xml"
+    },
+    {
         "merged": "/Users/user/AndroidStudioProjects/Musofirlar.uz/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/home_screen.xml",
         "source": "/Users/user/AndroidStudioProjects/Musofirlar.uz/app/src/main/res/layout/home_screen.xml"
     },

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <item
+        android:id="@+id/hospital_id"
+        android:icon="@drawable/ic_vector"
+        android:title="Hospital" />
+
+    <item
+        android:id="@+id/rent_house_id"
+        android:icon="@drawable/house"
+        android:title="House" />
+
+    <item
+        android:id="@+id/cafe_id"
+        android:icon="@drawable/cafe"
+        android:title="Cafe" />
+
+    <item
+        android:id="@+id/embassy_id"
+        android:icon="@drawable/ic_embassy"
+        android:title="Embassy" />
+
+    <item
+        android:id="@+id/work_id"
+        android:icon="@drawable/ic_work"
+        android:title="Work"
+
+        />
+
+
+</menu>

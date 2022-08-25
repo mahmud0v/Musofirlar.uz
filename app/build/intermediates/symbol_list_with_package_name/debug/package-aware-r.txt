@@ -1283,6 +1283,8 @@ color cardview_dark_background
 color cardview_light_background
 color cardview_shadow_end_color
 color cardview_shadow_start_color
+color check_sel_false
+color check_sel_true
 color checkbox_themeable_attribute_color
 color def_dots_color
 color design_bottom_navigation_shadow_color
@@ -1820,6 +1822,7 @@ color secondary_text_default_material_light
 color secondary_text_disabled_material_dark
 color secondary_text_disabled_material_light
 color sel_dots_color
+color selected_checked
 color switch_thumb_disabled_material_dark
 color switch_thumb_disabled_material_light
 color switch_thumb_material_dark
@@ -2500,6 +2503,7 @@ drawable abc_textfield_search_material
 drawable abc_vector_test
 drawable avd_hide_password
 drawable avd_show_password
+drawable bottom_nav_view_back
 drawable btn_checkbox_checked_mtrl
 drawable btn_checkbox_checked_to_unchecked_mtrl_animation
 drawable btn_checkbox_unchecked_mtrl
@@ -2508,6 +2512,7 @@ drawable btn_radio_off_mtrl
 drawable btn_radio_off_to_on_mtrl_animation
 drawable btn_radio_on_mtrl
 drawable btn_radio_on_to_off_mtrl_animation
+drawable cafe
 drawable checkbox_bg
 drawable checked_bg
 drawable continue_btn_bg
@@ -2518,12 +2523,15 @@ drawable design_password_eye
 drawable design_snackbar_background
 drawable dot_background
 drawable dropdown_icon
+drawable ep_location
 drawable filter_icon
 drawable google_btn
 drawable google_img
+drawable house
 drawable ic_clock_black_24dp
 drawable ic_close_eye
 drawable ic_dropdown
+drawable ic_embassy
 drawable ic_google
 drawable ic_google_logo
 drawable ic_google_logo_icon
@@ -2542,7 +2550,9 @@ drawable ic_open_eye
 drawable ic_screen1_image_3
 drawable ic_search_icon
 drawable ic_sleep_eye
+drawable ic_vector
 drawable ic_verify
+drawable ic_work
 drawable intro2_head_img
 drawable intro3_head_img
 drawable intro4_head_img
@@ -2602,6 +2612,9 @@ drawable test_custom_background
 drawable test_level_drawable
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
+drawable unsplash_1
+drawable unsplash_2
+drawable unsplash_3
 drawable verify_dialog_bg
 drawable worm_dot_background
 drawable worm_dot_stroke_background
@@ -2714,6 +2727,7 @@ id bounceEnd
 id bounceStart
 id buttonPanel
 id cache_measures
+id cafe_id
 id callMeasure
 id cancel_button
 id carryVelocity
@@ -2794,6 +2808,7 @@ id easeOut
 id east
 id edit_query
 id elastic
+id embassy_id
 id end
 id endToStart
 id enterAlways
@@ -2832,6 +2847,7 @@ id homeAsUp
 id homeScreen2
 id honorRequest
 id horizontal_only
+id hospital_id
 id icon
 id icon_group
 id ifRoom
@@ -2865,6 +2881,7 @@ id linear
 id listMode
 id list_item
 id locale
+id location_txt
 id loginScreen
 id login_btn
 id login_edittext1
@@ -2941,6 +2958,7 @@ id navigation_bar_item_labels_group
 id navigation_bar_item_large_label_view
 id navigation_bar_item_small_label_view
 id navigation_header_container
+id near_txt
 id never
 id neverCompleteToEnd
 id neverCompleteToStart
@@ -2995,6 +3013,7 @@ id register_line1
 id register_line2
 id register_text
 id rent_home_text
+id rent_house_id
 id reverseSawtooth
 id right
 id rightToLeft
@@ -3003,6 +3022,9 @@ id right_side
 id rounded
 id row_index_key
 id rtl
+id rv1_id
+id rv2_id
+id rv_2_txt1
 id save_non_transition_alpha
 id save_overlay_view
 id sawtooth
@@ -3123,9 +3145,12 @@ id transition_position
 id transition_scene_layoutid_cache
 id transition_transform
 id triangle
+id txt_1
 id unchecked
 id uniform
 id unlabeled
+id unsplash_1
+id unsplash_2
 id up
 id useLogo
 id verify_btn
@@ -3144,6 +3169,7 @@ id visible_removing_fragment_view_tag
 id west
 id withText
 id withinBounds
+id work_id
 id worm_dot
 id wrap
 id wrap_content
@@ -3311,6 +3337,8 @@ layout notification_template_icon_group
 layout notification_template_part_chronometer
 layout notification_template_part_time
 layout registr_screen
+layout rv1_item_list
+layout rv2_item_list
 layout select_dialog_item_material
 layout select_dialog_multichoice_material
 layout select_dialog_singlechoice_material
@@ -3335,6 +3363,7 @@ layout text_view_without_line_height
 layout verify_register_dialog
 layout view_pager_home
 layout worm_dot_layout
+menu bottom_nav_menu
 menu example_menu
 menu example_menu2
 mipmap ic_launcher

@@ -617,6 +617,8 @@
     <color name="cardview_light_background">#FFFFFFFF</color>
     <color name="cardview_shadow_end_color">#03000000</color>
     <color name="cardview_shadow_start_color">#37000000</color>
+    <color name="check_sel_false">#5CADFF</color>
+    <color name="check_sel_true">#ffffff</color>
     <color name="def_dots_color">#797979</color>
     <color name="design_bottom_navigation_shadow_color">#14000000</color>
     <color name="design_dark_default_color_background">#121212</color>

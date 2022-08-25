@@ -9,4 +9,6 @@
     <color name="white">#FFFFFFFF</color>
     <color name="def_dots_color">#797979</color>
     <color name="sel_dots_color">#007FFF</color>
+    <color name="check_sel_true">#ffffff</color>
+    <color name="check_sel_false">#5CADFF</color>
 </resources>
