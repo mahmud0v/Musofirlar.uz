@@ -1,9 +1,5 @@
 [
     {
-        "merged": "/Users/user/AndroidStudioProjects/Musofirlar.uz/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_layout.xml",
-        "source": "/Users/user/AndroidStudioProjects/Musofirlar.uz/app/src/main/res/layout/item_layout.xml"
-    },
-    {
         "merged": "/Users/user/AndroidStudioProjects/Musofirlar.uz/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/splash_screen.xml",
         "source": "/Users/user/AndroidStudioProjects/Musofirlar.uz/app/src/main/res/layout/splash_screen.xml"
     },
@@ -38,6 +34,10 @@
     {
         "merged": "/Users/user/AndroidStudioProjects/Musofirlar.uz/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/intro_screen.xml",
         "source": "/Users/user/AndroidStudioProjects/Musofirlar.uz/app/src/main/res/layout/intro_screen.xml"
+    },
+    {
+        "merged": "/Users/user/AndroidStudioProjects/Musofirlar.uz/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/room_detail_screen.xml",
+        "source": "/Users/user/AndroidStudioProjects/Musofirlar.uz/app/src/main/res/layout/room_detail_screen.xml"
     },
     {
         "merged": "/Users/user/AndroidStudioProjects/Musofirlar.uz/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/registr_screen.xml",

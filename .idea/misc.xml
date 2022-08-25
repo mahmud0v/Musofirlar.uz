@@ -15,6 +15,7 @@
         <entry key="app/src/main/res/drawable/ic_embassy.xml" value="0.1105" />
         <entry key="app/src/main/res/drawable/ic_vector.xml" value="0.1105" />
         <entry key="app/src/main/res/drawable/ic_work.xml" value="0.1105" />
+        <entry key="app/src/main/res/drawable/room_detail.xml" value="0.1105" />
         <entry key="app/src/main/res/drawable/selected_checked.xml" value="0.1105" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.19610507246376813" />
         <entry key="app/src/main/res/layout/home_screen.xml" value="0.22972869873046878" />
@@ -22,6 +23,7 @@
         <entry key="app/src/main/res/layout/item_layout.xml" value="0.29791666666666666" />
         <entry key="app/src/main/res/layout/login_screen.xml" value="0.29791666666666666" />
         <entry key="app/src/main/res/layout/registr_screen.xml" value="0.19234924316406252" />
+        <entry key="app/src/main/res/layout/room_detail_screen.xml" value="0.1" />
         <entry key="app/src/main/res/layout/rv1_item_list.xml" value="0.296875" />
         <entry key="app/src/main/res/layout/rv2_item_list.xml" value="0.296875" />
         <entry key="app/src/main/res/layout/splash_screen.xml" value="0.29791666666666666" />

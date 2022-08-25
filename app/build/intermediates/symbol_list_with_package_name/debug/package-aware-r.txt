@@ -2602,6 +2602,7 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
+drawable room_detail
 drawable screen1_image1
 drawable screen1_image2
 drawable screen1_image3
@@ -2783,6 +2784,9 @@ id design_menu_item_action_area
 id design_menu_item_action_area_stub
 id design_menu_item_text
 id design_navigation_view
+id detail_txt1
+id detail_txt2
+id detail_txt3
 id dialog_button
 id dimensions
 id direct
@@ -3019,10 +3023,12 @@ id right
 id rightToLeft
 id right_icon
 id right_side
+id room_img_id
 id rounded
 id row_index_key
 id rtl
 id rv1_id
+id rv2_amount
 id rv2_id
 id rv_2_txt1
 id save_non_transition_alpha
@@ -3146,6 +3152,8 @@ id transition_scene_layoutid_cache
 id transition_transform
 id triangle
 id txt_1
+id txt_2
+id txt_3
 id unchecked
 id uniform
 id unlabeled
@@ -3337,6 +3345,7 @@ layout notification_template_icon_group
 layout notification_template_part_chronometer
 layout notification_template_part_time
 layout registr_screen
+layout room_detail_screen
 layout rv1_item_list
 layout rv2_item_list
 layout select_dialog_item_material

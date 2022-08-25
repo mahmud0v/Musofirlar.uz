@@ -2601,6 +2601,7 @@ int drawable notification_template_icon_bg 0x7f0700b0
 int drawable notification_template_icon_low_bg 0x7f0700b1
 int drawable notification_tile_bg 0x7f0700b2
 int drawable notify_panel_notification_icon_bg 0x7f0700b3
+int drawable room_detail 0x7f0700cb
 int drawable screen1_image1 0x7f0700b4
 int drawable screen1_image2 0x7f0700b5
 int drawable screen1_image3 0x7f0700b6
@@ -2782,6 +2783,9 @@ int id design_menu_item_action_area 0x7f09009c
 int id design_menu_item_action_area_stub 0x7f09009d
 int id design_menu_item_text 0x7f09009e
 int id design_navigation_view 0x7f09009f
+int id detail_txt1 0x7f09022c
+int id detail_txt2 0x7f09022d
+int id detail_txt3 0x7f09022e
 int id dialog_button 0x7f0900a0
 int id dimensions 0x7f0900a1
 int id direct 0x7f0900a2
@@ -3018,10 +3022,12 @@ int id right 0x7f090183
 int id rightToLeft 0x7f090184
 int id right_icon 0x7f090185
 int id right_side 0x7f090186
+int id room_img_id 0x7f09022f
 int id rounded 0x7f090187
 int id row_index_key 0x7f090188
 int id rtl 0x7f090189
 int id rv1_id 0x7f090225
+int id rv2_amount 0x7f090232
 int id rv2_id 0x7f090226
 int id rv_2_txt1 0x7f090227
 int id save_non_transition_alpha 0x7f09018a
@@ -3145,6 +3151,8 @@ int id transition_scene_layoutid_cache 0x7f0901ff
 int id transition_transform 0x7f090200
 int id triangle 0x7f090201
 int id txt_1 0x7f090228
+int id txt_2 0x7f090230
+int id txt_3 0x7f090231
 int id unchecked 0x7f090202
 int id uniform 0x7f090203
 int id unlabeled 0x7f090204
@@ -3336,6 +3344,7 @@ int layout notification_template_icon_group 0x7f0c0062
 int layout notification_template_part_chronometer 0x7f0c0063
 int layout notification_template_part_time 0x7f0c0064
 int layout registr_screen 0x7f0c0065
+int layout room_detail_screen 0x7f0c0080
 int layout rv1_item_list 0x7f0c007e
 int layout rv2_item_list 0x7f0c007f
 int layout select_dialog_item_material 0x7f0c0066

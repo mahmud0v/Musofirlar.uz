@@ -16,6 +16,7 @@
             android:id="@+id/unsplash_1"
             android:layout_width="191dp"
             android:layout_height="115dp"
+            android:scaleType="centerCrop"
             app:layout_constraintLeft_toLeftOf="parent"
             app:layout_constraintTop_toTopOf="parent"
             tools:src="@drawable/unsplash_1" />
@@ -46,6 +47,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginStart="11dp"
                 android:textSize="13sp"
+                android:id="@+id/txt_2"
                 android:fontFamily="@font/poppins_regular"
                 android:text="London, Downtown st. 77"
                 android:textColor="#A5A5A5" />
@@ -56,6 +58,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginStart="11dp"
                 android:layout_marginTop="11dp"
+                android:id="@+id/txt_3"
                 android:layout_marginBottom="10dp"
                 android:fontFamily="@font/poppins_semi_bold"
                 android:text="150.000 so'\m"

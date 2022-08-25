@@ -106,6 +106,8 @@
         app:menu="@menu/bottom_nav_menu"
         app:labelVisibilityMode="unlabeled"
         app:itemIconTint="@color/selected_checked"
+        android:outlineSpotShadowColor="#5CADFF"
+        android:outlineAmbientShadowColor="#5CADFF"
         android:background="@drawable/bottom_nav_view_back"
         />
 
