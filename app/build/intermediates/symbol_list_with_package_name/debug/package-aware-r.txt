@@ -2739,6 +2739,7 @@ id clip_vertical
 id clockwise
 id closest
 id collapseActionView
+id com_offers_id
 id compress
 id confirm_button
 id congratulate_text
@@ -2824,7 +2825,6 @@ id group_divider
 id grouping
 id groups
 id guideline
-id gulgle_id
 id header_title
 id hideable
 id home
@@ -3257,7 +3257,6 @@ layout design_text_input_start_icon
 layout dot_layout
 layout home_screen
 layout intro_screen
-layout item_layout
 layout login_screen
 layout m3_alert_dialog
 layout m3_alert_dialog_actions
@@ -3379,6 +3378,7 @@ string character_counter_overflowed_content_description
 string character_counter_pattern
 string chip_text
 string clear_text_end_icon_content_description
+string comfort_offers
 string congratulate
 string continue_text
 string enter_google

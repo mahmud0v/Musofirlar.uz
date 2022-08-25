@@ -21,14 +21,18 @@ public final class HomeScreenBinding implements ViewBinding {
   private final ConstraintLayout rootView;
 
   @NonNull
+  public final TextView comOffersId;
+
+  @NonNull
   public final TextView rentHomeText;
 
   @NonNull
   public final SearchView searchViewId;
 
-  private HomeScreenBinding(@NonNull ConstraintLayout rootView, @NonNull TextView rentHomeText,
-      @NonNull SearchView searchViewId) {
+  private HomeScreenBinding(@NonNull ConstraintLayout rootView, @NonNull TextView comOffersId,
+      @NonNull TextView rentHomeText, @NonNull SearchView searchViewId) {
     this.rootView = rootView;
+    this.comOffersId = comOffersId;
     this.rentHomeText = rentHomeText;
     this.searchViewId = searchViewId;
   }
@@ -60,6 +64,12 @@ public final class HomeScreenBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
+      id = R.id.com_offers_id;
+      TextView comOffersId = ViewBindings.findChildViewById(rootView, id);
+      if (comOffersId == null) {
+        break missingId;
+      }
+
       id = R.id.rent_home_text;
       TextView rentHomeText = ViewBindings.findChildViewById(rootView, id);
       if (rentHomeText == null) {
@@ -72,7 +82,8 @@ public final class HomeScreenBinding implements ViewBinding {
         break missingId;
       }
 
-      return new HomeScreenBinding((ConstraintLayout) rootView, rentHomeText, searchViewId);
+      return new HomeScreenBinding((ConstraintLayout) rootView, comOffersId, rentHomeText,
+          searchViewId);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:background="#F9F9F9"
@@ -26,10 +27,13 @@
         android:layout_marginTop="14.4dp"
         android:layout_marginRight="20dp"
         android:id="@+id/search_view_id"
+        app:queryHint="Qidirish"
         android:background="@drawable/search_view_bg"
         app:layout_constraintTop_toBottomOf="@id/rent_home_text"
         app:layout_constraintLeft_toLeftOf="parent"
         android:layout_marginLeft="20dp"
+        android:paddingEnd="10dp"
+        app:closeIcon="@null"
         />
 
     <ImageView
@@ -41,5 +45,21 @@
         android:src="@drawable/filter_icon"
         android:padding="10dp"
         />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toBottomOf="@id/search_view_id"
+        android:text="@string/comfort_offers"
+        android:layout_marginStart="20dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        android:layout_marginTop="20dp"
+        android:fontFamily="@font/poppins_semi_bold"
+        android:textSize="13sp"
+        android:textColor="#000000"
+        android:id="@+id/com_offers_id"
+        />
+
+
 
 </androidx.constraintlayout.widget.ConstraintLayout>

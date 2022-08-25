@@ -1,9 +1,5 @@
 [
     {
-        "merged": "/Users/user/AndroidStudioProjects/Musofirlar.uz/app/build/intermediates/merged_res/debug/layout_item_layout.xml.flat",
-        "source": "/Users/user/AndroidStudioProjects/Musofirlar.uz/app/src/main/res/layout/item_layout.xml"
-    },
-    {
         "merged": "/Users/user/AndroidStudioProjects/Musofirlar.uz/app/build/intermediates/merged_res/debug/drawable-anydpi-v24_filter_icon.xml.flat",
         "source": "/Users/user/AndroidStudioProjects/Musofirlar.uz/app/build/generated/res/pngs/debug/drawable-anydpi-v24/filter_icon.xml"
     },
